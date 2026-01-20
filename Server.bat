@@ -1,1 +1,1 @@
-start /min cmd /c "cd /d "Pharmacy-Project" && node server.js"
+start /min cmd /c "cd /d "index.html" && node server.js"
