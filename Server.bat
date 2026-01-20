@@ -1,0 +1,1 @@
+start /min cmd /c "cd /d "C:\Users\mamdo\OneDrive\Desktop\The Pharmacy Website\Project\Pharmacy-Project" && node server.js"
